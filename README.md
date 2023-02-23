@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=memeteminozturk&label=Profile%20views&color=0e75b6&style=flat" alt="memeteminozturk" /> </p>
 
-<h2 align="center">🌱 I’m currently learning <strong>Vue</strong></h3>
+<h2 align="center">🌱 I’m currently learning <strong>JS</strong></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
